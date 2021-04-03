@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John Doe",
+        "age": 27,
+        "email": "test@gmail.com"
+    },
+    {
+        "name": "Shehroz Irfan",
+        "age": 21,
+        "email": "shehrozirfan89@gmail.com"
+    },
+    {
+        "name": "Azhar Irfan",
+        "age": 24,
+        "email": "azharirfan@gmail.com"
+    }
+]
