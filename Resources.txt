@@ -1,0 +1,7 @@
+D/bw Async = true and false:
+
+https://stackoverflow.com/questions/1478295/what-does-async-false-do-in-jquery-ajax
+
+Explanation of Callbacks and onload:
+
+https://www.w3schools.com/js/js_asynchronous.asp
